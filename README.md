@@ -11,3 +11,6 @@ During this week I did not get the chance to actually deploy the honey pots. I g
 <img src="Deployment 3.PNG" width="800">
 
 
+
+
+I did not manage to get any data due to the fact that the requests kept timing out. The only other issue I had with this assignment was the firewall issue that i quickly resolved.
